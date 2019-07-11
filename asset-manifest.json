@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-spa-gh-pages/static/css/main.2cce8147.chunk.css",
-    "main.js": "/react-spa-gh-pages/static/js/main.203e3f29.chunk.js",
-    "main.js.map": "/react-spa-gh-pages/static/js/main.203e3f29.chunk.js.map",
+    "main.js": "/react-spa-gh-pages/static/js/main.95a017bf.chunk.js",
+    "main.js.map": "/react-spa-gh-pages/static/js/main.95a017bf.chunk.js.map",
     "runtime~main.js": "/react-spa-gh-pages/static/js/runtime~main.ff3fdb74.js",
     "runtime~main.js.map": "/react-spa-gh-pages/static/js/runtime~main.ff3fdb74.js.map",
-    "static/js/2.b41502e9.chunk.js": "/react-spa-gh-pages/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/react-spa-gh-pages/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/react-spa-gh-pages/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/react-spa-gh-pages/static/js/2.65aa1cca.chunk.js.map",
     "index.html": "/react-spa-gh-pages/index.html",
-    "precache-manifest.6b5f6d6601622f216f67841c23441830.js": "/react-spa-gh-pages/precache-manifest.6b5f6d6601622f216f67841c23441830.js",
+    "precache-manifest.163cfabf998e11ac631a2479488b6092.js": "/react-spa-gh-pages/precache-manifest.163cfabf998e11ac631a2479488b6092.js",
     "service-worker.js": "/react-spa-gh-pages/service-worker.js",
     "static/css/main.2cce8147.chunk.css.map": "/react-spa-gh-pages/static/css/main.2cce8147.chunk.css.map",
     "static/media/logo.svg": "/react-spa-gh-pages/static/media/logo.5d5d9eef.svg"
